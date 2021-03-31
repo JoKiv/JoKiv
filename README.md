@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently not working but opportunity looks promising for April
-- 🌱 I’m currently learning video editing and C#
-- 📫 How to reach me: If you don't have other way; try twitter JoKivFin
+- 🔭 The current work starts / started in April.
+- 🌱 I’m currently learning video editing, python and C#
+- ✒ How to find me: [Twitter](https://twitter.com/jokivfin), [Twitch](https://twitch.tv/jokiv), [YouTube](https://www.youtube.com/user/jokiv) and JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
 - 😄 Pronouns: he/him
-
-[Twitter](https://twitter.com/jokivfin) | [Twitch](https://twitch.tv/jokiv) | [YouTube](https://www.youtube.com/user/jokiv) | JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish_)
