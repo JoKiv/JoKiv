@@ -10,7 +10,7 @@
 
 ### What I do
 
->Video editing with Davinci Resolve
+>Video editing with [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
 >Programming with [TRSE](https://turborascal.com), [Python](https://www.python.org/), [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[Unity](https://unity.com/) and [golang](https://golang.org/)
 
