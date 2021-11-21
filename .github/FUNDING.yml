@@ -1,4 +1,4 @@
 # These are supported funding model platforms
 
-custom: ['https://paypal.me/JoKiv']
-custom: ['https://subs.twitch.tv/jokiv']
+custom: ["https://paypal.me/JoKiv", paypal.me]
+custom: ["https://subs.twitch.tv/jokiv" twitch.tv]
