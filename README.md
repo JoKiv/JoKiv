@@ -18,7 +18,7 @@
 
 > I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content when I have time.
 
-> I am building a platform related to the game and streaming that will be released in the future.
+> I am building a platform for gaming and streaming. Released in the future.
 
 ### How to contact me
 - [Twitter.com/JoKivFin](https://twitter.com/jokivfin)
