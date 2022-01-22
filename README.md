@@ -21,8 +21,11 @@
 > I am building a platform for gaming and streaming. Released in the future.
 
 ### How to contact me
-- [Twitter.com/JoKivFin](https://twitter.com/jokivfin)
-- [jokiv.itch.io](https://jokiv.itch.io/) 
-- JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
-- [u/jokiv](https://www.reddit.com/user/jokiv/)
+> [Twitter.com/JoKivFin](https://twitter.com/jokivfin)
+
+> JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
+
+> [jokiv.itch.io](https://jokiv.itch.io/) 
+
+> [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit
 
