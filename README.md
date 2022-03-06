@@ -4,7 +4,7 @@
 
 > I live at Kemi, Finland, EU
 
-> I'm currently working as IT-support
+> I'm currently working as IT-support until end of March.
 
 > Pronouns: he/him/hän
 
@@ -20,12 +20,13 @@
 
 > I am building a platform for gaming and streaming. Released in the future.
 
+> My projects will be [Steam Deck](https://store.steampowered.com/steamdeck) compatible when possible. Compatibility will be checked when I receive my own Steam Deck.
+
 ### How to contact me
 > [Twitter.com/JoKivFin](https://twitter.com/jokivfin)
 
 > JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
 
-> [jokiv.itch.io](https://jokiv.itch.io/) 
+> I mainly release via [jokiv.itch.io](https://jokiv.itch.io/)
 
-> [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit
-
+> I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit
