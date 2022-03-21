@@ -4,7 +4,7 @@
 
 > I live at Kemi, Finland, EU
 
-> I'm currently working as IT-support until end of March.
+> I'm currently working as IT-support.
 
 > Pronouns: he/him/hän
 
