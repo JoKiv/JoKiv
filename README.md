@@ -4,11 +4,11 @@
 
 > I live at Kemi, Finland, EU
 
-> I'm currently working as IT-support until end of June
+> I'm currently working as part-time IT-support until end of June
 
 > Pronouns: he/him/hän
 
-### What do I do when I'm not at work
+### What do I do for fun and creativity
 
 > Streaming on [Twitch](https://twitch.tv/jokiv). I also have a [YouTube channel](https://www.youtube.com/user/jokiv) where I have resumed with some content.
 
