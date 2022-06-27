@@ -6,7 +6,7 @@
 
 > Pronouns: he/him/hän
 
-### What do I do for fun and creativity
+## What do I do for fun and creativity
 
 > Streaming on [Twitch](https://twitch.tv/jokiv). I also have a [YouTube channel](https://www.youtube.com/user/jokiv) where I have resumed with content.
 
@@ -24,7 +24,7 @@
 
 > I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few times a month. Hopefully.
 
-### How to contact me
+## How to contact me
 > [Twitter.com/JoKivFin](https://twitter.com/jokivfin)
 
 > JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
