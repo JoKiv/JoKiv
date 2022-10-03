@@ -18,9 +18,9 @@
 
 > I am building a platform for gaming and streaming. Released in the future.
 
-> My projects will be [Steam Deck](https://store.steampowered.com/steamdeck) compatible when possible. Compatibility will be updated when I receive my own Steam Deck.
+> My projects will be [Steam Deck](https://store.steampowered.com/steamdeck) compatible when possible. Compatibility has been updated sice I receive my own Steam Deck.
 
-> I mainly release my stuff via [jokiv.itch.io](https://jokiv.itch.io/).
+> I mainly release my stuff via [jokiv.itch.io](https://jokiv.itch.io/). I have additional plans for the future.
 
 > I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few times a month. Hopefully.
 
