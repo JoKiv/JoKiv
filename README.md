@@ -10,7 +10,7 @@ Pronouns: he/him/hän
 
 Streaming on [Twitch](https://twitch.tv/jokiv). I also have a [YouTube channel](https://www.youtube.com/@jokiv) where I have resumed with content.
 
-I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content. 
+I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content.
 
 Video editing with [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/). I can do basic editing with some effects. Since I resumed youtube uploads I have been getting better at it.
 
@@ -25,6 +25,7 @@ I mainly release my stuff via [jokiv.itch.io](https://jokiv.itch.io/). I have ad
 I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few times a month. Hopefully.
 
 ## How to contact me
+
 [Twitter.com/JoKivFin](https://twitter.com/jokivfin)
 
 I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit. I have created a [subreddit](https://www.reddit.com/r/jokiv/) for additional stuff.
