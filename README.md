@@ -12,7 +12,7 @@ Streaming on [Twitch](https://twitch.tv/jokiv). I also have a [YouTube channel](
 
 I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content.
 
-Video editing with [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/). I can do basic editing with some effects. Since I resumed youtube uploads I have been getting better at it.
+Video editing with [Kdenlive](https://kdenlive.org/en/) and [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/). I can do basic editing with some effects. Since I resumed youtube uploads I have been getting better at it.
 
 I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/) and [PureBasic](https://purebasic.com). I'm also interested [TRSE](https://turborascal.com) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[Unity](https://unity.com/).
 
@@ -26,7 +26,7 @@ I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few tim
 
 ## How to contact me
 
-[Twitter.com/JoKivFin](https://twitter.com/jokivfin)
+[Twitter/JoKivFin](https://twitter.com/jokivfin)
 
 I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit. I have created a [subreddit](https://www.reddit.com/r/jokiv/) for additional stuff.
 
