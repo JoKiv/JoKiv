@@ -8,17 +8,19 @@ Pronouns: he/him/hän
 
 ## What do I do for fun and creativity
 
-Streaming on [Twitch](https://twitch.tv/jokiv). I also upload videos to a [YouTube channel](https://www.youtube.com/@jokiv).
+Streaming on [Twitch](https://twitch.tv/jokiv). 
+
+I upload videos to a [YouTube channel](https://www.youtube.com/@jokiv).
 
 I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content.
 
 Video editing with [Kdenlive](https://kdenlive.org/en/). I can do basic editing with some effects. Since I resumed youtube uploads I have been getting better at it. I do have paid version of and [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) but my current hardware does not support it.
 
-I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/) and [PureBasic](https://purebasic.com). I'm also interested [TRSE](https://turborascal.com) and [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)/[Unity](https://unity.com/).
+I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/) and [PureBasic](https://purebasic.com). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com).
 
 I am building a platform for gaming, streaming and game streaming. Released in the future.
 
-My projects are [Steam Deck](https://store.steampowered.com/steamdeck) compatible when possible. Compatibility has been updated since I received my own Steam Deck.
+My projects are [Steam Deck](https://store.steampowered.com/steamdeck) compatible when possible.
 
 I mainly release my stuff via [jokiv.itch.io](https://jokiv.itch.io/). I have additional plans for the future.
 
