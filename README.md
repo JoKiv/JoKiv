@@ -28,7 +28,9 @@ I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few tim
 
 ## How to contact me
 
-- [Twitter/JoKivFin](https://twitter.com/jokivfin)
+- Twitter [JoKivFin](https://twitter.com/jokivfin)
+
+- Mastodon [@jokiv@mastodon.social](https://mastodon.social/@jokiv)
   
 - I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit. I have created a [subreddit](https://www.reddit.com/r/jokiv/) for additional stuff.
   
