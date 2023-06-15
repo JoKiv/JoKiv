@@ -34,4 +34,4 @@ I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few tim
   
 - I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit. I have created a [subreddit](https://www.reddit.com/r/jokiv/) for additional stuff.
   
-- JoKiv#5420 @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
+- jokiv (was JoKiv#5420) @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
