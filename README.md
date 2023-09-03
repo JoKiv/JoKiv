@@ -14,7 +14,7 @@ I upload videos to a [YouTube channel](https://www.youtube.com/@jokiv).
 
 I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content.
 
-Video editing with [Kdenlive](https://kdenlive.org/en/). I can do basic editing with some effects. Since I resumed youtube uploads I have been getting better at it. I do have paid version of and [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) but my current hardware does not support it.
+Video editing with [Kdenlive](https://kdenlive.org/en/) for simple edits and [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) for bigger projects. I can do basic editing with some effects. Since I resumed youtube uploads I have been getting better at it. 
 
 I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/) and [PureBasic](https://purebasic.com). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com).
 
