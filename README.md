@@ -8,7 +8,7 @@ Pronouns: he/him/hän
 
 ## What do I do for fun and creativity
 
-I stream streaming on [Twitch](https://twitch.tv/jokiv) and [Kick](https://kick.com/jokiv).
+I stream on [Twitch](https://twitch.tv/jokiv) and [Kick](https://kick.com/jokiv).
 
 I upload videos to a [YouTube channel](https://www.youtube.com/@jokiv).
 
@@ -18,13 +18,11 @@ Video editing with [Kdenlive](https://kdenlive.org/en/) for simple edits and [Da
 
 I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/) and [PureBasic](https://purebasic.com). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com).
 
-I am building a platform for gaming, streaming and game streaming. Released in the future.
-
 My projects are [Steam Deck](https://store.steampowered.com/steamdeck) compatible when possible.
 
 I mainly release my stuff via [jokiv.itch.io](https://jokiv.itch.io/). I have additional plans for the future.
 
-I have resumed my blog at [jokiv.fi](https://jokiv.fi/). Some rare posts few times a month. Hopefully.
+I have blog at [jokiv.fi](https://jokiv.fi/). Some small updates can be seen also at my [ko-fi](https://ko-fi.com/jokiv) page.
 
 ## How to contact me
 
