@@ -8,7 +8,7 @@ Pronouns: he/him/hän
 
 ## What do I do for fun and creativity
 
-I stream streaming on [Twitch](https://twitch.tv/jokiv). 
+I stream streaming on [Twitch](https://twitch.tv/jokiv) and [Kick](https://kick.com/jokiv).
 
 I upload videos to a [YouTube channel](https://www.youtube.com/@jokiv).
 
