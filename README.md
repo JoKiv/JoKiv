@@ -26,10 +26,12 @@ I have blog at [jokiv.fi](https://jokiv.fi/). Some small updates can be seen als
 
 ## How to contact me
 
-- Twitter [JoKivFin](https://twitter.com/jokivfin)
-
 - Mastodon [@jokiv@mastodon.social](https://mastodon.social/@jokiv)
-  
+
+- Bluesky [@jokiv.bsky.social](https://bsky.app/profile/jokiv.bsky.social)
+
 - I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit. I have created a [subreddit](https://www.reddit.com/r/jokiv/) for additional stuff.
   
 - jokiv (was JoKiv#5420) @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
+
+- Twitter [JoKivFin](https://twitter.com/jokivfin)
