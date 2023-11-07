@@ -31,7 +31,11 @@ I have blog at [jokiv.fi](https://jokiv.fi/). Some small updates can be seen als
 - Bluesky [@jokiv.bsky.social](https://bsky.app/profile/jokiv.bsky.social)
 
 - I can be found with [u/jokiv](https://www.reddit.com/user/jokiv/) at Reddit. I have created a [subreddit](https://www.reddit.com/r/jokiv/) for additional stuff.
-  
+
 - jokiv (was JoKiv#5420) @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish server_)
 
 - Twitter [JoKivFin](https://twitter.com/jokivfin)
+
+## New stuff since last update
+
+I purchased the [Flipper Zero](https://flipperzero.one/). There may be some coding projects related to it in the future.
