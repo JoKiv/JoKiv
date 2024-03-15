@@ -12,7 +12,7 @@ I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'
 
 Video editing with [Kdenlive](https://kdenlive.org/en/) for simple edits and [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) for bigger projects.  
 
-I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/) and [PureBasic](https://purebasic.com). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com). 
+I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/), [PureBasic](https://purebasic.com) and [Vision Basic](https://visionbasic.net/). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com). 
 
 My projects are [Steam Deck](https://store.steampowered.com/steamdeck) compatible. 
 
