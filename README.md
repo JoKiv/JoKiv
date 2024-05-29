@@ -1,6 +1,6 @@
 # Greetings
 
-I live at Kemi, Finland, EU
+I'm currently living in Kemi, Finland, EU
 
 Pronouns: he/him/hän
 
@@ -24,9 +24,9 @@ I have blog at [jokiv.fi](https://jokiv.fi/). Some small updates can be seen als
 
 [Flipper Zero](https://flipperzero.one/). My multi tool.
 
-Commodore 64 programming. With old and new tools.
+Commodore 64 programming - old and new, with a mix of vintage and modern tools.
 
-Writing a book. Possibly I'll release it one day.
+I'm slowly writing a book. No promises on when or if it'll be out. 
 
 ## How to contact me
 
@@ -42,4 +42,4 @@ Twitter [JoKivFin](https://twitter.com/jokivfin)
 
 ## New stuff since last update
 
-I recently took up my decades-old hobby of programming for the Commodore 64.
+I have recently gained more familiarity with Apple's ecosystem, and it remains to be seen how this new knowledge may influence my future projects. No promises.
