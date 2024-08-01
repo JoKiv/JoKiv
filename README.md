@@ -40,6 +40,10 @@ jokiv (was JoKiv#5420) @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish 
 
 Twitter [JoKivFin](https://twitter.com/jokivfin)
 
-## New stuff since last update
+## Apple stuff
 
 I have recently gained more familiarity with Apple's ecosystem, and it remains to be seen how this new knowledge may influence my future projects. No promises.
+
+## New stuff since last update
+
+I have resumed my C64 projects. 
