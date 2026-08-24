@@ -6,13 +6,13 @@ Pronouns: he/him/hän
 
 ## What do I do for fun and creativity
 
-I stream on [Twitch](https://twitch.tv/jokiv) and rarely [Kick](https://kick.com/jokiv). I upload videos to a [YouTube channel](https://www.youtube.com/@jokiv).
+My main streaming platform is [Twitch](https://twitch.tv/jokiv) and upload videos to a [YouTube channel](https://www.youtube.com/@jokiv). I very rarely stream over [Kick](https://kick.com/jokiv).
 
-I usually chat with people on [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content.
+I usually chat using [Discord](https://discord.gg/N5wbdnU) and there I'll stream additional content.
 
-Video editing with [Kdenlive](https://kdenlive.org/en/) for simple edits and [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) for bigger projects.  
+For video editing I have [Kdenlive](https://kdenlive.org/en/). I also have studio license for [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) but with my computer it's bit too much for it. 
 
-I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/), [PureBasic](https://purebasic.com) and [Vision Basic](https://visionbasic.net/). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com). 
+I primarily use [Python](https://www.python.org/) for programming, but I also use [godot/gdscript](https://godotengine.org/), [node-red/javascript](https://nodered.org/), [PureBasic](https://purebasic.com), [Vision Basic](https://visionbasic.net/), [oscar64](https://github.com/drmortalwombat/oscar64) and [cc65](https://cc65.github.io/). I'm also interested [Rust](https://www.rust-lang.org/) and [TRSE](https://turborascal.com). 
 
 I rarely but still mainly release my stuff via [jokiv.itch.io](https://jokiv.itch.io/).
 
@@ -22,7 +22,7 @@ I have blog at [jokiv.fi](https://jokiv.fi/). Some small updates can be seen als
 
 [Flipper Zero](https://flipperzero.one/). My multi tool.
 
-Commodore 64 programming - old and new, with a mix of vintage and modern tools.
+Commodore 64 programming - old and new, with a mix of vintage and modern tools. 
 
 I'm slowly writing a book. No promises on when or if it'll be out. 
 
@@ -38,10 +38,19 @@ jokiv (was JoKiv#5420) @ [Discord](https://discord.gg/N5wbdnU) (_mostly Finnish 
 
 Twitter [JoKivFin](https://twitter.com/jokivfin)
 
-## Apple stuff
+## Hardware
 
-I have recently gained more familiarity with Apple's ecosystem, and it remains to be seen how this new knowledge may influence my future projects. No promises.
+I primarily use Linux on my laptop and my desktop is a Mac Mini. Raspberry Pi runs the official distro they provide.
+
+[Commodore 64 Ultimate](https://commodore.net/computer/): BASIC Beige
+
+## AI usage
+
+As a solo developer I use AI only for debugging, problem solving and guidance. Never for direct code generation. 
+
+I do not use generative AI for art, graphics or visual design.
 
 ## New stuff since last update
 
-I have been bit more active at YouTube and Twitch.
+I have been making tools to help projects with older computers. Mainly for C64 and Amiga.
+
