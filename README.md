@@ -26,6 +26,8 @@ Commodore 64 programming - old and new, with a mix of vintage and modern tools.
 
 I'm slowly writing a book. No promises on when or if it'll be out. 
 
+I have been making tools to help projects with older computers. Mainly for C64 and Amiga.
+
 ## How to contact me
 
 Mastodon [@jokiv@mastodon.social](https://mastodon.social/@jokiv)
@@ -46,11 +48,10 @@ I primarily use Linux on my laptop and my desktop is a Mac Mini. Raspberry Pi ru
 
 ## AI usage
 
-As a solo developer I use AI only for debugging, problem solving and guidance. Never for direct code generation. 
+As a solo developer I use AI for debugging, problem solving and guidance. Some of my code can be AI-assisted. 
 
 I do not use generative AI for art, graphics or visual design.
 
 ## New stuff since last update
 
-I have been making tools to help projects with older computers. Mainly for C64 and Amiga.
-
+[Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html) 
