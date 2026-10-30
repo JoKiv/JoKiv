@@ -44,7 +44,8 @@ Twitter [JoKivFin](https://twitter.com/jokivfin)
 
 I primarily use Linux on my laptop and my desktop is a Mac Mini. Raspberry Pi runs the official distro they provide.
 
-[Commodore 64 Ultimate](https://commodore.net/computer/): BASIC Beige
+- [Commodore 64 Ultimate](https://commodore.net/computer/): BASIC Beige
+- [Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html) 
 
 ## AI usage
 
@@ -54,4 +55,4 @@ I do not use generative AI for art, graphics or visual design.
 
 ## New stuff since last update
 
-[Tang Nano 9K](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html) 
+I bought Tang Nano 9K for testing. No projects yet. 
